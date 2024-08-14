@@ -67,6 +67,10 @@
   font-weight: 800;
   line-height: 36px;
 }
+.title:hover {
+  color: #f4d04e;
+  cursor: pointer;
+}
 
 .text {
   color: #6b6b6b;
